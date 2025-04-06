@@ -1,1 +1,1 @@
-# Local-AIAgent-RAG
+# Local AI Agent with RAG
